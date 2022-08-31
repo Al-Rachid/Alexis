@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daril
+- 👋 Hi, I’m @Al-Rachid
 - 👀 I’m interested in Web and Mobile Developement
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on projects
